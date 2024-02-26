@@ -1,4 +1,6 @@
-![image](https://github.com/aathithya-27/Motion-detection-night-light-with-ESP-32/assets/127311233/e5865e8d-6bc3-4c21-83fb-8f9a4b3c2a7e)Here’s an overview of this IoT-based ESP32 CAM project:
+![Uploading image.png…]()
+
+Here’s an overview of this IoT-based ESP32 CAM project:
 
 We will create a Telegram bot for the conversation with the ESP32-CAM;
 When we send the message /photo to the ESP32-CAM bot, the ESP32-CAM board receives the message, takes a new photo, and sends it to the Telegram bot;

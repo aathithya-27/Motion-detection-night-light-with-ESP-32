@@ -1,3 +1,31 @@
+<h1 align="center">Hi 👋, I'm Aathithya P R</h1>
+<h3 align="center">A passionate frontend developer and Software developer from India</h3>
+
+- 🔭 I’m currently working on [IoT Motion Sensor Camera using ESP32-CAM & Telegram Bot](https://github.com/aathithya-27/Motion-detection-night-light-with-ESP-32)
+
+- 🌱 I’m currently learning **Telegram Bot API, ESP-IDF, MQTT, Advanced Embedded C++**
+
+- 👯 I’m looking to collaborate on **Smart Home & IoT Automation Projects**
+
+- 👨‍💻 All of my projects are available at [https://aathithyapr-portfolio.netlify.app/](https://aathithyapr-portfolio.netlify.app/)
+
+- 💬 Ask me about **ESP32, PIR Sensors, DHT11, Arduino IDE, Telegram Bot, GPIO circuits**
+
+- 📫 How to reach me **ironaathithya@gmail.com**
+
+- 📄 Know about my experiences [https://aathithyapr-portfolio.netlify.app/](https://aathithyapr-portfolio.netlify.app/)
+
+- ⚡ Fun fact **I automated my room to notify me on Telegram when there's motion 😄**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aathithya-27&show_icons=true&locale=en&layout=compact" alt="aathithya-27" /></p>
+
 
 Here’s an overview of this IoT-based ESP32 CAM project:
 

@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://aathithyapr-portfolio.netlify.app/](https://aathithyapr-portfolio.netlify.app/)
 
-- ⚡ Fun fact **I automated my room to notify me on Telegram when there's motion 😄**
+- ⚡ Fun fact **I automated my room to notify me on Telegram when there's motion and to turn on/off light through telegram 😄**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
